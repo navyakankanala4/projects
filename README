@@ -1,0 +1,4 @@
+server that distinguishes both tcp and udp and a hash function based on 
+seperate chaining
+
+ 
